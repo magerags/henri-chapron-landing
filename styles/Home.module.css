@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+.container {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
 .footer {
   display: flex;
   flex: 1;
